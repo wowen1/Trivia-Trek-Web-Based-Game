@@ -3,3 +3,4 @@ It needs to be compiled in Unity, and be built for WebGL so that it can be acces
 To build the game, go to Unity and choose File -> Build Settings; select "WebGL" and hit "Build"
 
 No third party library nor API was used in this project.
+https://psyche.asu.edu/get-involved/capstone-projects/capstone-projects-copper-class/web-based-game-trivia-trek/
